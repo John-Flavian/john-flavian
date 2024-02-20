@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=John-Flavian)
+![Github stats](https://github-readme-stats.vercel.app/api?username=John-Flavi)
 
 
 ### Let's Connect 🔗
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/john-flavian/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Flavian)](https://github.com/John-Flavian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Flavian)](https://github.com/John-Flavi)
 
